@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chukstev
-- 👀 I’m just a lover tech
+- 👀 I’m just a lover of tech
 - 🌱 I’m currently learning frontend web development...
 - 💞️ I’m looking to collaborate with a positive and genuine individuals, so we can work together and create great things...
 
